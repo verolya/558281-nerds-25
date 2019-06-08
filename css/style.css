@@ -135,3 +135,104 @@ a {
 .button-y:active {
 	background-color: #e5a722;
 }
+
+.client-list {
+    list-style: none;
+}
+
+.write {
+	color: #000000;
+}
+
+.write-form input {
+    font: inherit;
+
+    background-color: transparent;
+    border: 2px solid #000000;
+}
+
+.footer-social {
+list-style: none;
+}
+
+.footer-social a:hover {
+	color: #e74246
+}
+.footer-social a:focus {
+     color: #d7373b
+	}
+
+.futer-content {
+	font-size: 16px;
+	line-height: 22px;
+	color: #444444;
+}
+
+.futer-content b {
+    font-size: 36px;
+	line-height: 36px;
+}
+
+.inner-page {
+	color: #000000;
+}
+
+.box {
+	
+    width: 1440px;
+	background-position: center;
+}
+
+.goods {
+	display: flex;
+
+}
+
+.goods-list {
+	width: 300px;
+	margin: 138px;
+	bottom: 95px;
+}
+
+.middle {
+	display: flex;
+}
+
+.info {
+	width: 660px;
+}
+
+.features {
+	width: 360px;
+}
+
+.client {
+	display: flex;
+}
+
+.html {
+	width: 300px;
+
+}
+
+.boroda {
+	width: 300px;
+}
+
+
+
+
+ .visually-hidden{ 
+position: absolute; 
+width: 1px; 
+height: 1px; 
+margin: -1px; 
+border: 0; 
+padding: 0; 
+white-space: nowrap; 
+-webkit-clip-path: inset(100%); 
+clip-path: inset(100%); 
+clip: rect(0 0 0 0); 
+overflow: hidden 
+}
+
