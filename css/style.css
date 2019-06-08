@@ -178,14 +178,14 @@ list-style: none;
 }
 
 .box {
-	margin: 0px;
-    width: 1100px;
-	background-position: center;
+	margin: 0 auto;
+    width: 1200px;
+	
 }
 
 .container {
 	margin: 0px;
-	width: 1100px;
+	width: 1200px;
 	
 }
 
@@ -204,6 +204,7 @@ list-style: none;
 .middle {
 	display: flex;
 	justify-content: space-between;
+	margin-top: 100px;
 }
 
 .info {
@@ -215,8 +216,10 @@ list-style: none;
 	width: 360px;
 }
 
-.client {
+.client-list {
 	display: flex;
+	justify-content: space-between;
+	margin-top: 100px;
 }
 
 .html {
@@ -225,6 +228,14 @@ list-style: none;
 }
 
 .boroda {
+	width: 300px;
+}
+
+.pink {
+	width: 300px;
+}
+
+.mishka4 {
 	width: 300px;
 }
 
