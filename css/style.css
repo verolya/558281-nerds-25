@@ -178,28 +178,37 @@ list-style: none;
 }
 
 .box {
-	
-    width: 1440px;
+	margin: 0px;
+    width: 1100px;
 	background-position: center;
+}
+
+.container {
+	margin: 0px;
+	width: 1100px;
+	
 }
 
 .goods {
 	display: flex;
+	justify-content: space-between;
 
 }
 
 .goods-list {
 	width: 300px;
-	margin: 138px;
+	
 	bottom: 95px;
 }
 
 .middle {
 	display: flex;
+	justify-content: space-between;
 }
 
 .info {
 	width: 660px;
+	bottom: 140px;
 }
 
 .features {
