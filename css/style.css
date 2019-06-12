@@ -183,6 +183,45 @@ list-style: none;
 	
 }
 
+.main-navigation {
+	display: flex;
+	justify-content: space-between;
+}
+
+.main-header-logo {
+	width: 160px;
+}
+
+.site-navigation {
+	display: flex;
+	justify-content: space-between;
+}
+
+.site-navigation-list1 {
+	width:  65px;
+}
+
+.site-navigation-list2 {
+	width:  65px;
+	margin: : 45px;
+}
+
+.site-navigation-list3 {
+	width:  65px;
+	margin: : 45px;
+}
+
+.site-navigation-list4 {
+	width:  65px;
+	margin: : 45px;
+}
+
+.user-navigation {
+	width: 124px;
+
+}
+
+
 .container {
 	margin: 0px;
 	width: 1200px;
@@ -227,7 +266,7 @@ list-style: none;
 
 }
 
-.boroda {
+.beard {
 	width: 300px;
 }
 
@@ -237,6 +276,20 @@ list-style: none;
 
 .mishka4 {
 	width: 300px;
+}
+
+.main-footer {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 100px;
+}
+
+.footer-social {
+	width: 260px;
+}
+
+.footer-content {
+	width: 560px;
 }
 
 
